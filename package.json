@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.5",
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
@@ -10,7 +14,8 @@
     "react-use-gesture": "^5.2.4",
     "styled-components": "^5.0.0-beta.8",
     "styled-system": "^5.1.2",
-    "styled-tools": "^1.7.1"
+    "styled-tools": "^1.7.1",
+    "typescript": "^3.6.3"
   },
   "scripts": {
     "start": "react-app-rewired start",
